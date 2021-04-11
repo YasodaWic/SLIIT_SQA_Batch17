@@ -1,2 +1,2 @@
 # SLIIT_SQA_Batch17
-Git practical for students
+This is the feature brach and I did the few changes.
